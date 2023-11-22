@@ -1,0 +1,569 @@
+{
+    "ALT1": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "10 Northfield Dr",
+        "AddressLine2": "",
+        "City": "Milton Keynes",
+        "StateOrProvinceCode": "",
+        "PostalCode": "MK15 0DQ",
+        "CountryCode": "GB"
+    },
+    "BHX1": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "Tower business park",
+        "AddressLine2": "Power Station Rd",
+        "City": "Rugeley",
+        "StateOrProvinceCode": "",
+        "PostalCode": "WS15 1LX",
+        "CountryCode": "GB"
+    },
+    "BHX2": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "15B Beveridge Ln",
+        "AddressLine2": "Ellistown",
+        "City": "Coalville",
+        "StateOrProvinceCode": "",
+        "PostalCode": "LE67 1FB",
+        "CountryCode": "GB"
+    },
+    "BHX3": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "4 Royal Oak Way N",
+        "AddressLine2": "",
+        "City": "Daventry",
+        "StateOrProvinceCode": "",
+        "PostalCode": "NN11 8QL",
+        "CountryCode": "GB"
+    },
+    "BHX4": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "Plot 1, Lyons Park",
+        "AddressLine2": "Sayer Dr",
+        "City": "Coventry",
+        "StateOrProvinceCode": "West Midlands",
+        "PostalCode": "CV5 9PF",
+        "CountryCode": "GB"
+    },
+    "BHX5": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "Amazon UK Services Ltd",
+        "AddressLine2": "Unit 3 Waver Way",
+        "City": "Rugby",
+        "StateOrProvinceCode": "",
+        "PostalCode": "CV23 0XF",
+        "CountryCode": "GB"
+    },
+    "BHX7": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "Hinckley Rd",
+        "AddressLine2": "Burbage",
+        "City": "Hinckley",
+        "StateOrProvinceCode": "",
+        "PostalCode": "LE10 3FF",
+        "CountryCode": "GB"
+    },
+    "BRS1": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "Severn Beach",
+        "AddressLine2": "",
+        "City": "Bristol",
+        "StateOrProvinceCode": "",
+        "PostalCode": "BS35 4DJ",
+        "CountryCode": "GB"
+    },
+    "CST9": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "",
+        "AddressLine2": "",
+        "City": "Stoke-on-Trent",
+        "StateOrProvinceCode": "",
+        "PostalCode": "ST4 8ZR",
+        "CountryCode": "GB"
+    },
+    "CWL1": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "Ffordd Amazon",
+        "AddressLine2": "Skewen",
+        "City": "Swansea",
+        "StateOrProvinceCode": "",
+        "PostalCode": "SA1 8QX",
+        "CountryCode": "GB"
+    },
+    "DBS2": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "Avonmouth",
+        "AddressLine2": "",
+        "City": "Bristol",
+        "StateOrProvinceCode": "",
+        "PostalCode": "BS11 0YH",
+        "CountryCode": "GB"
+    },
+    "DCR1": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "4-8 Queensway",
+        "AddressLine2": "",
+        "City": "Croydon",
+        "StateOrProvinceCode": "",
+        "PostalCode": "CR0 4BD",
+        "CountryCode": "GB"
+    },
+    "DDN1": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "Unit 2a",
+        "AddressLine2": "Iport Ave",
+        "City": "Doncaster",
+        "StateOrProvinceCode": "",
+        "PostalCode": "DN11 0BF",
+        "CountryCode": "GB"
+    },
+    "DEH1": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "62 Pottishaw Rd",
+        "AddressLine2": "",
+        "City": "Bathgate",
+        "StateOrProvinceCode": "",
+        "PostalCode": "EH48 2FB",
+        "CountryCode": "GB"
+    },
+    "DEX1": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "36 Heron Rd",
+        "AddressLine2": "",
+        "City": "Exeter",
+        "StateOrProvinceCode": "",
+        "PostalCode": "EX2 7LL",
+        "CountryCode": "GB"
+    },
+    "DEX2": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "Unit 1, Exeter Logistics Park",
+        "AddressLine2": "Werstan Rd",
+        "City": "Exeter",
+        "StateOrProvinceCode": "",
+        "PostalCode": "EX5 2GB",
+        "CountryCode": "GB"
+    },
+    "DLS2": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "Logic Leeds Distribution Park",
+        "AddressLine2": "Pontefract Ln",
+        "City": "Leeds",
+        "StateOrProvinceCode": "",
+        "PostalCode": "LS9 0PS",
+        "CountryCode": "GB"
+    },
+    "DNE1": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "Cherry Blossom Way",
+        "AddressLine2": "",
+        "City": "Sunderland",
+        "StateOrProvinceCode": "",
+        "PostalCode": "SR5 3PL",
+        "CountryCode": "GB"
+    },
+    "DNR1": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "2 Caley Cl",
+        "AddressLine2": "",
+        "City": "Norwich",
+        "StateOrProvinceCode": "",
+        "PostalCode": "NR3 2BU",
+        "CountryCode": "GB"
+    },
+    "DOX2": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "3 Southam Rd",
+        "AddressLine2": "",
+        "City": "Banbury",
+        "StateOrProvinceCode": "",
+        "PostalCode": "OX16 2DJ",
+        "CountryCode": "GB"
+    },
+    "DPE1": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "Orton Southgate",
+        "AddressLine2": "",
+        "City": "Peterborough",
+        "StateOrProvinceCode": "",
+        "PostalCode": "PE2 6GX",
+        "CountryCode": "GB"
+    },
+    "DSA1": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "",
+        "AddressLine2": "",
+        "City": "Port Talbot",
+        "StateOrProvinceCode": "",
+        "PostalCode": "SA13 2PE",
+        "CountryCode": "GB"
+    },
+    "DST1": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "",
+        "AddressLine2": "",
+        "City": "Stoke-on-Trent",
+        "StateOrProvinceCode": "",
+        "PostalCode": "ST4 8ZR",
+        "CountryCode": "GB"
+    },
+    "DWR1": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "Kingswood Rd",
+        "AddressLine2": "Hampton Lovett",
+        "City": "Droitwich",
+        "StateOrProvinceCode": "",
+        "PostalCode": "WR9 0QH",
+        "CountryCode": "GB"
+    },
+    "DXB1": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "Britania Point",
+        "AddressLine2": "Patent Dr",
+        "City": "Wednesbury",
+        "StateOrProvinceCode": "",
+        "PostalCode": "WS10 7XB",
+        "CountryCode": "GB"
+    },
+    "DXS1": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "201 Upwell St",
+        "AddressLine2": "",
+        "City": "Sheffield",
+        "StateOrProvinceCode": "",
+        "PostalCode": "S4 8AL",
+        "CountryCode": "GB"
+    },
+    "EDI4": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "Amazon Way",
+        "AddressLine2": "",
+        "City": "Dunfermline",
+        "StateOrProvinceCode": "",
+        "PostalCode": "KY11 8ST",
+        "CountryCode": "GB"
+    },
+    "EMA1": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "Unit 1",
+        "AddressLine2": "Wilders Way",
+        "City": "Derby",
+        "StateOrProvinceCode": "",
+        "PostalCode": "DE74 2BB",
+        "CountryCode": "GB"
+    },
+    "EMA2": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "Sherwood Way S",
+        "AddressLine2": "Mansfield",
+        "City": "Sutton-in-Ashfield",
+        "StateOrProvinceCode": "",
+        "PostalCode": "NG17 5NB",
+        "CountryCode": "GB"
+    },
+    "EMA3": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "10 Oyster Road",
+        "AddressLine2": "Eastwood",
+        "City": "Nottingham",
+        "StateOrProvinceCode": "",
+        "PostalCode": "NG16 3UA",
+        "CountryCode": "GB"
+    },
+    "EUK5": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "Unit 1, Kingston Park",
+        "AddressLine2": "Flaxley Rd",
+        "City": "Peterborough",
+        "StateOrProvinceCode": "",
+        "PostalCode": "PE2 9EN",
+        "CountryCode": "GB"
+    },
+    "EUKD": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "",
+        "AddressLine2": "",
+        "City": "Widnes",
+        "StateOrProvinceCode": "",
+        "PostalCode": "WA8 8WJ",
+        "CountryCode": "GB"
+    },
+    "GLA1": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "1 Cloch Rd",
+        "AddressLine2": "Faulds Park Rd",
+        "City": "Gourock",
+        "StateOrProvinceCode": "",
+        "PostalCode": "PA19 1BQ",
+        "CountryCode": "GB"
+    },
+    "LBA1": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "Balby Carr Bank",
+        "AddressLine2": "",
+        "City": "Doncaster",
+        "StateOrProvinceCode": "",
+        "PostalCode": "DN4 5JS",
+        "CountryCode": "GB"
+    },
+    "LBA2": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "Iport Ave",
+        "AddressLine2": "Loversall",
+        "City": "Doncaster",
+        "StateOrProvinceCode": "",
+        "PostalCode": "DN11 0BG",
+        "CountryCode": "GB"
+    },
+    "LBA3": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "3 Watervole Way",
+        "AddressLine2": "",
+        "City": "Doncaster",
+        "StateOrProvinceCode": "",
+        "PostalCode": "DN4 5JP",
+        "CountryCode": "GB"
+    },
+    "LBA4": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "Unit IP9 Toronto Way",
+        "AddressLine2": "New Rossington",
+        "City": "Doncaster",
+        "StateOrProvinceCode": "",
+        "PostalCode": "DN11 0GU",
+        "CountryCode": "GB"
+    },
+    "LBA8": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "Skelton Moor Way",
+        "AddressLine2": "",
+        "City": "Leeds",
+        "StateOrProvinceCode": "",
+        "PostalCode": "LS15 0AT",
+        "CountryCode": "GB"
+    },
+    "LCY2": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "London Distribution Park",
+        "AddressLine2": "Windrush Rd",
+        "City": "Tilbury",
+        "StateOrProvinceCode": "",
+        "PostalCode": "RM18 7AN",
+        "CountryCode": "GB"
+    },
+    "LCY3": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "Littlebrook Power Station (Oil Fired",
+        "AddressLine2": "",
+        "City": "Dartford",
+        "StateOrProvinceCode": "",
+        "PostalCode": "DA1 5PT",
+        "CountryCode": "GB"
+    },
+    "LCY8": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "Unit 1A London Medway Commercial Park James Swallow Way",
+        "AddressLine2": "",
+        "City": "Rochester",
+        "StateOrProvinceCode": "",
+        "PostalCode": "ME3 9GX",
+        "CountryCode": "GB"
+    },
+    "LTN1": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "Marston Gate Distribution Centre",
+        "AddressLine2": "Badgers Rise",
+        "City": "Ridgmont",
+        "StateOrProvinceCode": "",
+        "PostalCode": "MK43 0ZA",
+        "CountryCode": "GB"
+    },
+    "LTN2": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "Boundary Way",
+        "AddressLine2": "",
+        "City": "Hemel Hempstead",
+        "StateOrProvinceCode": "",
+        "PostalCode": "HP2 7LF",
+        "CountryCode": "GB"
+    },
+    "LTN4": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "",
+        "AddressLine2": "",
+        "City": "Dunstable",
+        "StateOrProvinceCode": "",
+        "PostalCode": "LU5 4GB",
+        "CountryCode": "GB"
+    },
+    "LTN7": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "Wootton",
+        "AddressLine2": "",
+        "City": "Bedford",
+        "StateOrProvinceCode": "",
+        "PostalCode": "MK43 9RT",
+        "CountryCode": "GB"
+    },
+    "LTN9": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "",
+        "AddressLine2": "",
+        "City": "Dunstable",
+        "StateOrProvinceCode": "",
+        "PostalCode": "LU5 4FE",
+        "CountryCode": "GB"
+    },
+    "MAN1": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "Manchester Airport",
+        "AddressLine2": "6 Sunbank Ln",
+        "City": "Altrincham",
+        "StateOrProvinceCode": "",
+        "PostalCode": "M90 5AA",
+        "CountryCode": "GB"
+    },
+    "MAN2": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "1 Orion Blvd",
+        "AddressLine2": "Great Sankey",
+        "City": "Warrington",
+        "StateOrProvinceCode": "",
+        "PostalCode": "WA5 3XA",
+        "CountryCode": "GB"
+    },
+    "MAN3": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "Bridgewater Ave",
+        "AddressLine2": "",
+        "City": "Bolton",
+        "StateOrProvinceCode": "",
+        "PostalCode": "BL5 1BT",
+        "CountryCode": "GB"
+    },
+    "MAN4": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "29 High Hazels Rd",
+        "AddressLine2": "Barlborough",
+        "City": "Chesterfield",
+        "StateOrProvinceCode": "",
+        "PostalCode": "S43 4PZ",
+        "CountryCode": "GB"
+    },
+    "MAN8": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "525 Haydock Park",
+        "AddressLine2": "Haydock",
+        "City": "Saint Helens",
+        "StateOrProvinceCode": "",
+        "PostalCode": "WA11 9FS",
+        "CountryCode": "GB"
+    },
+    "MME1": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "A66",
+        "AddressLine2": "",
+        "City": "Darlington",
+        "StateOrProvinceCode": "",
+        "PostalCode": "DL1 4PG",
+        "CountryCode": "GB"
+    },
+    "MME2": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "",
+        "AddressLine2": "",
+        "City": "Durham",
+        "StateOrProvinceCode": "",
+        "PostalCode": "DH6 5NR",
+        "CountryCode": "GB"
+    },
+    "NCL1": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "17 Follingsby Ln",
+        "AddressLine2": "",
+        "City": "Gateshead",
+        "StateOrProvinceCode": "",
+        "PostalCode": "NE10 8YA",
+        "CountryCode": "GB"
+    },
+    "SBS2": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "Avonmouth",
+        "AddressLine2": "",
+        "City": "Bristol",
+        "StateOrProvinceCode": "",
+        "PostalCode": "BS11 0YH",
+        "CountryCode": "GB"
+    },
+    "SEH1": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "Strand Dr",
+        "AddressLine2": "",
+        "City": "Bathgate",
+        "StateOrProvinceCode": "",
+        "PostalCode": "EH48 2EA",
+        "CountryCode": "GB"
+    },
+    "SNG1": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "Interlink Way East",
+        "AddressLine2": "Interlink Business Park",
+        "City": "Leicestershire",
+        "StateOrProvinceCode": "",
+        "PostalCode": "LE67 1LD",
+        "CountryCode": "GB"
+    },
+    "SNG9": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "123 Leigh Rd",
+        "AddressLine2": "",
+        "City": "Rugby",
+        "StateOrProvinceCode": "",
+        "PostalCode": "CV21 1DS",
+        "CountryCode": "GB"
+    },
+    "STN8": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "Plot 510, GLP",
+        "AddressLine2": "Magna Park",
+        "City": "Milton Keynes",
+        "StateOrProvinceCode": "",
+        "PostalCode": "MK17 8EW",
+        "CountryCode": "GB"
+    },
+    "XLT1": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "10 Manasty Rd",
+        "AddressLine2": "Orton Southgate",
+        "City": "Peterborough",
+        "StateOrProvinceCode": "",
+        "PostalCode": "PE2 6UP",
+        "CountryCode": "GB"
+    },
+    "XLT2": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "12 Holkham Rd",
+        "AddressLine2": "Orton Southgate",
+        "City": "Peterborough",
+        "StateOrProvinceCode": "",
+        "PostalCode": "PE2 6TE",
+        "CountryCode": "GB"
+    },
+    "XUKA": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "Preston Brook",
+        "AddressLine2": "",
+        "City": "Runcorn",
+        "StateOrProvinceCode": "",
+        "PostalCode": "WA7 3BN",
+        "CountryCode": "GB"
+    },
+    "XUKN": {
+        "Name": "Amazon Fulfillment Center",
+        "AddressLine1": "5 Castle Mound Way",
+        "AddressLine2": "",
+        "City": "Rugby",
+        "StateOrProvinceCode": "",
+        "PostalCode": "CV23 0WB",
+        "CountryCode": "GB"
+    }
+}
